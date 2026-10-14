@@ -1,0 +1,1 @@
+This repository contains the code needed to run the algorithms contained in the paper "Constructive Symmetry-Based Methods  for Linearizing Nonlinear Systems" by Laura Menini, Corrado Possieri and Antonio Tornambe
